@@ -1,0 +1,132 @@
+body
+{
+background-image: url(./2.gif);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.container{
+height: 100%;
+align-content: center;
+}
+
+
+.footer {
+	
+		height:100px;
+		color: #9b9b9b !important;
+		padding:10px;
+		text-align: center;
+		margin-top: 6%;
+		border-top: 1px solid #DAA520;
+		background-color: #101010  !important;
+		}
+
+  .logo
+{
+	width: 60px;
+	height: 60px;
+}
+.btn 
+{
+	color: #DAA520 !important;
+	border-color: #DAA520
+}
+.btn hover
+{
+	cursor: pointer;
+	background: #9e53137a;
+}
+.form-control 
+{
+	color: #DAA520 !important;
+	border-color: #DAA520;
+	background-color: #9e531300;
+	border-width: 1px;
+}
+
+.card{
+height: 470px;
+margin-top: 10%;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(43, 42, 42, 0.6) !important;
+}
+.card-body
+{
+    padding: 7%;
+    margin-top: 5%;
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #DAA520;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #DAA520;
+color: black;
+border:0 !important;
+
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+}
+
+.input-group
+{
+	    margin-bottom: 15%
+}
+
+.remember{
+color: white;
+margin-top: 10%;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black !important;
+background-color: #DAA520;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+
+text-decoration: none;
+color: #DAA520;
+}
